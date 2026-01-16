@@ -21,6 +21,7 @@ Power BI • Power Query • SQL • Python • Scikit-learn • Azure DP-900 �
 - Retail Sales Dashboard (Excel)
 
 ## Background
+- AI Data Collection & Validation (Freelance)
 - MSc Business Analytics  
-- 3-month Business Analyst internship  
+- 6-month Business Analyst internship  
 - Multiple real-world analytics and BI projects  
